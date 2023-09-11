@@ -5,6 +5,7 @@
 
 ### 项目文件如下
 ![Image](https://user-images.githubusercontent.com/75730173/266909900-9c637a3a-63bc-41bc-8cab-1571e88be9ab.png)
+使用前需要先开启 server服务，然后在是运行 Upload 文件，就可以使用了
 
 ### 环境
 测试环境:
